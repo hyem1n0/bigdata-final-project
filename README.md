@@ -120,7 +120,7 @@ make visualize
 
 ## AI Tool Usage
 
-- Claude: 코드 디버깅 (src/pipeline/preprocess.py, src/analyze/visualize.py), 슬라이드 구성 아이디어 검토, Makefile 구조 제안
+- Claude: 코드 디버깅 (src/pipeline/preprocess.py, src/pipeline/analyze.py, src/pipeline/hive.sql, src/pipeline/kmeans.py, src/analyze/visualize.py), 슬라이드 구성 아이디어 검토, Makefile 구조 제안
 
 ---
 
