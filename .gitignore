@@ -1,0 +1,27 @@
+# Raw data (too large for git)
+data/raw/charts/
+data/raw/charts_monthly/
+data/raw/features/
+
+# Data sample files committed separately
+!data/raw/sample/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+Icon*
+
+# Slides / Reports
+*.pdf
+
+# Output
+data/results/
